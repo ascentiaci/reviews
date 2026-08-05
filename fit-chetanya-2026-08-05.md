@@ -3,6 +3,8 @@ name: Fit Chetanya
 rating: 5
 date: 2026-08-05
 source: Google
+program:
+  - chairside-dental-assistant
 schools:
   - aci
 featured: true
