@@ -6,7 +6,7 @@ source: Google
 schools:
   - aci
 featured: true
-draft: true
+draft: false
 ---
 
 As an immigrant, enrolling in the Dental Assistant program has been one of the best decisions for my professional growth as well to support my PR. The course is well-structured, combining both theoretical knowledge and hands-on practical training that prepares students for real clinical settings.
