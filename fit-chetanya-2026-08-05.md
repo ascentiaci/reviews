@@ -6,7 +6,7 @@ source: Google
 schools:
   - aci
 featured: true
-draft: true
+draft: false
 ---
 
 I came into this course with no healthcare background, but I wanted to qualify for a TEER 3 job in the healthcare sector. That's when I found Ascentia Career Institute and enrolled in their Chairside Dental Assistant / Dental Assistant Level I / Licensed Dental Assistant (Limited) program.
