@@ -3,6 +3,8 @@ name: Harkirat Kaur
 rating: 5
 date: 2026-08-05
 source: Google
+program:
+  - chair-side-dental-assistant
 schools:
   - aci
 featured: true
