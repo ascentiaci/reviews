@@ -6,7 +6,9 @@ source: Google
 schools:
   - aci
 featured: true
-draft: true
+draft: false
+programs:
+  - early-childhood-education-assistant
 ---
 
 amazing experience
