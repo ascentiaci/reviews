@@ -6,7 +6,9 @@ source: Google
 schools:
   - aci
 featured: true
-draft: true
+draft: false
+program: 
+  - holistic-spa-and-wellness
 ---
 
 Alda gave me a tour of the dental/massage/spa section of this incredible career institute and I can confidently say this is a great choice for any student looking for a more private and in depth school experience. The facility is very high end, cutting edge and smaller classes make for a much more interactive learning experience.

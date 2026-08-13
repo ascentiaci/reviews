@@ -6,7 +6,9 @@ source: Google
 schools:
   - aci
 featured: true
-draft: true
+draft: false
+program: 
+  - holistic-spa-and-wellness
 ---
 
 I had a great massage by one of the Students.

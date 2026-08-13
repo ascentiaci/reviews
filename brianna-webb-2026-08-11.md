@@ -6,7 +6,9 @@ source: Google
 schools:
   - aci
 featured: true
-draft: true
+draft: false
+program: 
+  - holistic-spa-and-wellness
 ---
 
 Excellent experience receiving a Swedish massage. Highly recommend. Clean, professional environment

@@ -6,7 +6,9 @@ source: Google
 schools:
   - aci
 featured: true
-draft: true
+draft: false
+program: 
+  - holistic-spa-and-wellness
 ---
 
 Great experience with ownership and their knowledge! A welcomed addition to Kelowna!

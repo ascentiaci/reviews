@@ -6,7 +6,9 @@ source: Google
 schools:
   - aci
 featured: true
-draft: true
+draft: false
+program: 
+  - holistic-spa-and-wellness
 ---
 
 I had such a great experience with the massage students at Ascentia! The facility is clean, welcoming, and massage rooms are relaxing. The staff and students are incredibly kind and professional too.
